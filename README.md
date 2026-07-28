@@ -1,10 +1,10 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Daniel%20Ruiz&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=MSc%20Computer%20Science%20and%20Engineering&descSize=18&descAlignY=55&textBg=false"/>
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://komarev.com/ghpvc/?username=Daru-Mau">
     <img src="https://komarev.com/ghpvc/?username=Daru-Mau&label=Profile%20views&color=00FFFF&style=flat-square" alt="Daru-Mau's profile views" />
   </a>
-</p>
+</p> -->
 
 MSc Computer Science & Engineering @ Politecnico di Milano *(completed)*  
 BSc @ Universidad del Norte, Barranquilla 🇨🇴 *(completed)*  
