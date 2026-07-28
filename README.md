@@ -8,7 +8,7 @@
 
 MSc Computer Science & Engineering @ Politecnico di Milano *(completed)*  
 BSc @ Universidad del Norte, Barranquilla 🇨🇴 *(completed)*  
-Thesis: *"The Rooms"* — interactive physical/virtual environments with robotic embodiment via VR
+Thesis: *"The Rooms"* - interactive physical/virtual environments with robotic embodiment via VR
 
 ---
 
@@ -33,29 +33,29 @@ Thesis: *"The Rooms"* — interactive physical/virtual environments with robotic
 
 ## 🔧 What I build
 
-- **Embedded & robotic systems** — ESP32 firmware, servo control, real-time sensor fusion, custom UDP protocols for multi-device coordination
-- **VR & real-time interaction** — Unity, Meta Quest 2, embodied presence, IK solvers, spatial audio
-- **Robotics middleware** — Python robot hubs, liveness detection, telemetry pipelines
-- **Full-stack & mobile** — React Native, Vue/Nuxt, Django REST, accessible and responsive frontends
-- **Human-robot interaction** — user studies, physical+virtual environment integration, hardware-software co-design
+- **Embedded & robotic systems** - ESP32 firmware, servo control, real-time sensor fusion, custom UDP protocols for multi-device coordination
+- **VR & real-time interaction** - Unity, Meta Quest 2, embodied presence, IK solvers, spatial audio
+- **Robotics middleware** - Python robot hubs, liveness detection, telemetry pipelines
+- **Full-stack & mobile** - React Native, Vue/Nuxt, Django REST, accessible and responsive frontends
+- **Human-robot interaction** - user studies, physical+virtual environment integration, hardware-software co-design
 
 ---
 
 ## 📌 Featured projects
 
-**The Rooms** — A physical room with robotic organs that a VR user inhabits as an embodied avatar. Python hub, custom binary UDP protocol, ESP32 firmware, Unity.  
+**The Rooms** - A physical room with robotic organs that a VR user inhabits as an embodied avatar. Python hub, custom binary UDP protocol, ESP32 firmware, Unity.  
 `ESP32` `Python` `Unity` `C#` `Embedded` `VR` `UDP`
 
-**Mapuka** — Gamified exploration with a Fog-of-War mechanic; discover the map by visiting locations. React Native, Expo, Supabase, Mapbox.  
+**Mapuka** - Gamified exploration with a Fog-of-War mechanic; discover the map by visiting locations. React Native, Expo, Supabase, Mapbox.  
 `React Native` `Expo` `Supabase` `PostgreSQL` `Mapbox`
 
-**Car Companion** — Android app with Qt 3D vehicle visualization, connected to Azure cloud. Agile multidisciplinary team.  
+**Car Companion** - Android app with Qt 3D vehicle visualization, connected to Azure cloud. Agile multidisciplinary team.  
 `Android Studio` `Kotlin` `Qt 3D` `Azure`
 
-**CodeKataBattle** — Full-stack programming tournament platform: Django REST, React, Celery/Redis, JWT auth, GitHub API.  
+**CodeKataBattle** - Full-stack programming tournament platform: Django REST, React, Celery/Redis, JWT auth, GitHub API.  
 `Django` `React` `PostgreSQL` `Redis` `Celery`
 
-**Lotus Haven** — Accessible yoga studio website with WCAG compliance, built with Vue 3, Nuxt 3, Supabase.  
+**Lotus Haven** - Accessible yoga studio website with WCAG compliance, built with Vue 3, Nuxt 3, Supabase.  
 `Vue.js` `Nuxt` `Tailwind CSS` `WCAG` `Supabase`
 
 ---
@@ -110,13 +110,13 @@ Thesis: *"The Rooms"* — interactive physical/virtual environments with robotic
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" alt="ESP32/Arduino" width="40" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/Daru-Mau">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Daru-Mau&langs_count=8&layout=compact&theme=tokyonight&border_radius=10" alt="Top Languages" />
   </a>
 </p>
 
-![Top language](https://stats.pphat.top/languages?username=Daru-Mau)
+![Top language](https://stats.pphat.top/languages?username=Daru-Mau) -->
 
 ---
 
